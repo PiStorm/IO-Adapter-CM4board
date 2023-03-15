@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PiStorm32_IO_RevB.pcbdoc   13.11.2021  09:29:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PiStorm32_IO_RevB-RoundHoles.TXT
+ASCII SlotHoles File : PiStorm32_IO_RevB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             281       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              1         PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             25        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T6      36mil (0.92mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T7      40mil (1.02mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      64mil (1.63mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T9      91mil (2.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T10     138mil (3.5mm)                                            Slot              1         PTH        0.00inch (0.00mm)
+T11     28mil (0.7mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T12     33mil (0.85mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T13     128mil (3.25mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              330
+
+Total Processing Time (hh:mm:ss) : 00:00:00

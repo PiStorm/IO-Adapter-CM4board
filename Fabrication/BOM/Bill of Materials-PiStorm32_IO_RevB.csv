@@ -1,0 +1,16 @@
+Description;Designator;Footprint;Quantity;LCSC Part;Value
+;;;;;
+Capacitor (Semiconductor SIM Model);C1, C2, C3, C5;603;4;C23630;2u2
+Capacitor (Semiconductor SIM Model);C4, C7, C8;603;3;C59461;22uf/0603
+Capacitor 1uF 10V Ceramic 10% 0402;C6;402;1;;100n
+;D1, D2, D3, D4, D5, D6;DFN2510-10_L2.5-W1.0-P0.50-BL;6;C2835427;ESD5304D-TP
+Integrated Circuit;IC1, IC2;SOT95P280X135-5N;2;C89855;MT9700
+HDMI Type A Receptacle WR-HDMI, Horizontal, SMT;J1;685119134923;1;;HDMI
+WR-FPC SMT ZIF Horizontal Top Contact, pitch 0.5mm, 40p;J2;68714014022;1;;FPC 0.5mm 40pos
+USB 2.0 Type A, Receptacle, Horizontal, THT;J3;61400416021;1;;USB HOST
+RES 22 OHM 1/16W 5% 0402;R1;402;1;;5k6
+RES 22 OHM 1/16W 5% 0402;R2;402;1;;12k
+RES 22 OHM 1/16W 5% 0402;R3, R4;402;2;;470
+LAN Transformer, THT, 10/100/1000 Base-T, Port 1x1, Tab Down;T1;HY911130A;1;C55679;GigE Eth
+800mA Low-Dropout Linear Regulator, 4-pin SOT-223;U1;MP04A_N;1;C6186;LDO 3.3V
+;USB;MICRO-USB-SMD_U-E-051N-4BH21-F1B;1;C381142;MicroUSB 

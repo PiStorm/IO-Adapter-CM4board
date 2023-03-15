@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: H:\Electronic\Projekte\Amiga\pistorm32_module\PiStorm32_IO_RevB.pcbdoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pistorm32_io_revb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pistorm32_io_revb-slotholes.txt|DrillLayers=gtl,gbl
